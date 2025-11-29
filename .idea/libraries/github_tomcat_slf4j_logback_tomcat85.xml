@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="github.tomcat.slf4j.logback.tomcat85" type="repository">
+    <properties maven-id="com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.99" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/tomcat-slf4j-logback/tomcat85-slf4j-logback/8.5.99/tomcat85-slf4j-logback-8.5.99.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
