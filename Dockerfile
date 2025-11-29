@@ -1,5 +1,5 @@
 # Use Java 25 JDK (Amazon Corretto)
-
+FROM amazoncorretto:25
 
 # Set working directory inside container
 WORKDIR /app
