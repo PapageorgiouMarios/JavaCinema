@@ -4,7 +4,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-purple?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=github&logoColor=white)
 
-A multi-threaded simulation of a cinema ticket reservation system in Java (Version 25). Originally developed as a 2nd semester course homework using C ([original repo](https://github.com/PapageorgiouMarios/Booking-Theater-Seats-POSIX-Threads)) 
+A multi-threaded simulation of a cinema ticket reservation system in Java (Version 25). Originally developed as a 2nd year course homework using C ([original repo](https://github.com/PapageorgiouMarios/Booking-Theater-Seats-POSIX-Threads)) 
 but now it's extended with advanced concurrency handling, logging, and deployment support.
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d00a6272-8f66-45ae-84a2-d7896ffcf120" />
